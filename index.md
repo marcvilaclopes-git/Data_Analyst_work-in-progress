@@ -7,5 +7,5 @@ title: Benvingut/da
 Estadístic apassionat per les dades, Power BI i el futbol sala. Aquest espai recull el meu camí com a Data Analyst.
 
 ## 🔍 Projectes en curs
-- [Projectes](project Contacte
-Troba'm a [LinkedIn](https://www.linkedin.com/in/marcvilaclopes) o [GitHub](https://github.com/marc
+- [Projectes](Work in)
+Troba'm a [LinkedIn](https://www.linkedin.com/in/marcvilaclopes) o [GitHub](https://github.com/marcvilaclopes-git)
